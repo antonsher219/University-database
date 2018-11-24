@@ -1,0 +1,85 @@
+C:\Users\JULIA\Desktop\CourseWorkk\BL\bin\Debug\BL.dll
+C:\Users\JULIA\Desktop\CourseWorkk\BL\bin\Debug\BL.pdb
+C:\Users\JULIA\Desktop\CourseWorkk\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JULIA\Desktop\CourseWorkk\BL\obj\Debug\BL.dll
+C:\Users\JULIA\Desktop\CourseWorkk\BL\obj\Debug\BL.pdb
+C:\Users\JULIA\Desktop\CourseWorkk\BL\bin\Debug\DataSer.dll
+C:\Users\JULIA\Desktop\CourseWorkk\BL\bin\Debug\DataSer.pdb
+E:\CourseWorkk\BL\bin\Debug\BL.dll
+E:\CourseWorkk\BL\bin\Debug\BL.pdb
+E:\CourseWorkk\BL\bin\Debug\DataSer.dll
+E:\CourseWorkk\BL\bin\Debug\DataSer.pdb
+E:\CourseWorkk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\CourseWorkk\BL\obj\Debug\BL.dll
+E:\CourseWorkk\BL\obj\Debug\BL.pdb
+H:\CourseWorkk\BL\bin\Debug\BL.dll
+H:\CourseWorkk\BL\bin\Debug\BL.pdb
+H:\CourseWorkk\BL\bin\Debug\DataSer.dll
+H:\CourseWorkk\BL\bin\Debug\DataSer.pdb
+H:\CourseWorkk\BL\obj\Debug\ResolveAssemblyReference.cache
+H:\CourseWorkk\BL\obj\Debug\BL.dll
+H:\CourseWorkk\BL\obj\Debug\BL.pdb
+C:\Users\Антон\Desktop\CourseWorkk\BL\bin\Debug\BL.dll
+C:\Users\Антон\Desktop\CourseWorkk\BL\bin\Debug\BL.pdb
+C:\Users\Антон\Desktop\CourseWorkk\BL\bin\Debug\DataSer.dll
+C:\Users\Антон\Desktop\CourseWorkk\BL\bin\Debug\DataSer.pdb
+C:\Users\Антон\Desktop\CourseWorkk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\CourseWorkk\BL\obj\Debug\BL.dll
+C:\Users\Антон\Desktop\CourseWorkk\BL\obj\Debug\BL.pdb
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\BL\bin\Debug\BL.dll
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\BL\bin\Debug\BL.pdb
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\BL\bin\Debug\DataSer.dll
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\BL\bin\Debug\DataSer.pdb
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\BL\obj\Debug\BL.dll
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\BL\obj\Debug\BL.pdb
+D:\CourseWorkk1\BL\bin\Debug\BL.dll
+D:\CourseWorkk1\BL\bin\Debug\BL.pdb
+D:\CourseWorkk1\BL\bin\Debug\DataSer.dll
+D:\CourseWorkk1\BL\bin\Debug\DataSer.pdb
+D:\CourseWorkk1\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\CourseWorkk1\BL\obj\Debug\BL.dll
+D:\CourseWorkk1\BL\obj\Debug\BL.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\BL\bin\Debug\BL.dll
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\BL\bin\Debug\BL.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\BL\bin\Debug\DataSer.dll
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\BL\bin\Debug\DataSer.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\BL\obj\Debug\BL.dll
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\BL\obj\Debug\BL.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\bin\Debug\BL.dll
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\bin\Debug\BL.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\bin\Debug\DataSer.dll
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\bin\Debug\DataSer.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.dll
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\bin\Debug\BL.dll
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\bin\Debug\BL.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\bin\Debug\DataSer.dll
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\bin\Debug\DataSer.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.dll
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\BL\obj\Debug\BL.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\bin\Debug\BL.dll
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\bin\Debug\BL.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\bin\Debug\DataSer.dll
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\bin\Debug\DataSer.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\obj\Debug\BL.dll
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\BL\obj\Debug\BL.pdb
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\bin\Debug\BL.dll
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\bin\Debug\BL.pdb
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\bin\Debug\DataSer.dll
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\bin\Debug\DataSer.pdb
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\obj\Debug\BL.dll
+D:\Универ\2-ой семестр\CourseWork_2sem\BL\obj\Debug\BL.pdb

@@ -1,0 +1,56 @@
+C:\Users\JULIA\Desktop\CourseWorkk\DataSer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JULIA\Desktop\CourseWorkk\DataSer\bin\Debug\DataSer.dll
+C:\Users\JULIA\Desktop\CourseWorkk\DataSer\bin\Debug\DataSer.pdb
+C:\Users\JULIA\Desktop\CourseWorkk\DataSer\obj\Debug\DataSer.dll
+C:\Users\JULIA\Desktop\CourseWorkk\DataSer\obj\Debug\DataSer.pdb
+E:\CourseWorkk\DataSer\bin\Debug\DataSer.dll
+E:\CourseWorkk\DataSer\bin\Debug\DataSer.pdb
+E:\CourseWorkk\DataSer\obj\Debug\DataSer.dll
+E:\CourseWorkk\DataSer\obj\Debug\DataSer.pdb
+H:\CourseWorkk\DataSer\bin\Debug\DataSer.dll
+H:\CourseWorkk\DataSer\bin\Debug\DataSer.pdb
+H:\CourseWorkk\DataSer\obj\Debug\ResolveAssemblyReference.cache
+H:\CourseWorkk\DataSer\obj\Debug\DataSer.dll
+H:\CourseWorkk\DataSer\obj\Debug\DataSer.pdb
+C:\Users\Антон\Desktop\CourseWorkk\DataSer\bin\Debug\DataSer.dll
+C:\Users\Антон\Desktop\CourseWorkk\DataSer\bin\Debug\DataSer.pdb
+C:\Users\Антон\Desktop\CourseWorkk\DataSer\obj\Debug\DataSer.dll
+C:\Users\Антон\Desktop\CourseWorkk\DataSer\obj\Debug\DataSer.pdb
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\DataSer\bin\Debug\DataSer.dll
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\DataSer\bin\Debug\DataSer.pdb
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\DataSer\obj\Debug\DataSer.dll
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\DataSer\obj\Debug\DataSer.pdb
+D:\CourseWorkk1\DataSer\bin\Debug\DataSer.dll
+D:\CourseWorkk1\DataSer\bin\Debug\DataSer.pdb
+D:\CourseWorkk1\DataSer\obj\Debug\ResolveAssemblyReference.cache
+D:\CourseWorkk1\DataSer\obj\Debug\DataSer.dll
+D:\CourseWorkk1\DataSer\obj\Debug\DataSer.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\DataSer\bin\Debug\DataSer.dll
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\DataSer\bin\Debug\DataSer.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\DataSer\obj\Debug\DataSerializer.csprojResolveAssemblyReference.cache
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\DataSer\obj\Debug\DataSer.dll
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\DataSer\obj\Debug\DataSer.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\bin\Debug\DataSer.dll
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\bin\Debug\DataSer.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\obj\Debug\DataSerializer.csprojResolveAssemblyReference.cache
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\obj\Debug\DataSerializer.csproj.CoreCompileInputs.cache
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\obj\Debug\DataSer.dll
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\obj\Debug\DataSer.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\bin\Debug\DataSer.dll
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\bin\Debug\DataSer.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\obj\Debug\DataSerializer.csprojResolveAssemblyReference.cache
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\obj\Debug\DataSerializer.csproj.CoreCompileInputs.cache
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\obj\Debug\DataSer.dll
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\DataSer\obj\Debug\DataSer.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\DataSer\bin\Debug\DataSer.dll
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\DataSer\bin\Debug\DataSer.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\DataSer\obj\Debug\DataSerializer.csprojResolveAssemblyReference.cache
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\DataSer\obj\Debug\DataSerializer.csproj.CoreCompileInputs.cache
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\DataSer\obj\Debug\DataSer.dll
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\DataSer\obj\Debug\DataSer.pdb
+D:\Универ\2-ой семестр\CourseWork_2sem\DataSer\bin\Debug\DataSer.dll
+D:\Универ\2-ой семестр\CourseWork_2sem\DataSer\bin\Debug\DataSer.pdb
+D:\Универ\2-ой семестр\CourseWork_2sem\DataSer\obj\Debug\DataSerializer.csprojAssemblyReference.cache
+D:\Универ\2-ой семестр\CourseWork_2sem\DataSer\obj\Debug\DataSerializer.csproj.CoreCompileInputs.cache
+D:\Универ\2-ой семестр\CourseWork_2sem\DataSer\obj\Debug\DataSer.dll
+D:\Универ\2-ой семестр\CourseWork_2sem\DataSer\obj\Debug\DataSer.pdb

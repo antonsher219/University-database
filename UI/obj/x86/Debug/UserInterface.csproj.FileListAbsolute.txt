@@ -1,0 +1,235 @@
+C:\Users\JULIA\Desktop\CourseWorkk\UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JULIA\Desktop\CourseWorkk\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Users\JULIA\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.Univ.resources
+C:\Users\JULIA\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+C:\Users\JULIA\Desktop\CourseWorkk\UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JULIA\Desktop\CourseWorkk\UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JULIA\Desktop\CourseWorkk\UI\bin\Debug\UI.exe
+C:\Users\JULIA\Desktop\CourseWorkk\UI\bin\Debug\UI.pdb
+C:\Users\JULIA\Desktop\CourseWorkk\UI\bin\Debug\BL.dll
+C:\Users\JULIA\Desktop\CourseWorkk\UI\bin\Debug\DataSer.dll
+C:\Users\JULIA\Desktop\CourseWorkk\UI\bin\Debug\BL.pdb
+C:\Users\JULIA\Desktop\CourseWorkk\UI\bin\Debug\DataSer.pdb
+C:\Users\JULIA\Desktop\CourseWorkk\UI\obj\x86\Debug\UI.exe
+C:\Users\JULIA\Desktop\CourseWorkk\UI\obj\x86\Debug\UI.pdb
+E:\CourseWorkk\UI\obj\x86\Debug\UI.exe
+E:\CourseWorkk\UI\obj\x86\Debug\UI.pdb
+E:\CourseWorkk\UI\bin\Debug\UI.exe
+E:\CourseWorkk\UI\bin\Debug\UI.pdb
+E:\CourseWorkk\UI\bin\Debug\BL.dll
+E:\CourseWorkk\UI\bin\Debug\DataSer.dll
+E:\CourseWorkk\UI\bin\Debug\BL.pdb
+E:\CourseWorkk\UI\bin\Debug\DataSer.pdb
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.csprojResolveAssemblyReference.cache
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Univ.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.Cache
+H:\CourseWorkk\UI\bin\Debug\UI.exe
+H:\CourseWorkk\UI\bin\Debug\UI.pdb
+H:\CourseWorkk\UI\bin\Debug\BL.dll
+H:\CourseWorkk\UI\bin\Debug\DataSer.dll
+H:\CourseWorkk\UI\bin\Debug\BL.pdb
+H:\CourseWorkk\UI\bin\Debug\DataSer.pdb
+H:\CourseWorkk\UI\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Univ.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+H:\CourseWorkk\UI\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\CourseWorkk\UI\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\CourseWorkk\UI\obj\x86\Debug\UI.exe
+H:\CourseWorkk\UI\obj\x86\Debug\UI.pdb
+I:\CourseWorkk\UI\obj\x86\Debug\UI.exe
+I:\CourseWorkk\UI\obj\x86\Debug\UI.pdb
+I:\CourseWorkk\UI\bin\Debug\UI.exe
+I:\CourseWorkk\UI\bin\Debug\UI.pdb
+I:\CourseWorkk\UI\bin\Debug\BL.dll
+I:\CourseWorkk\UI\bin\Debug\DataSer.dll
+I:\CourseWorkk\UI\bin\Debug\BL.pdb
+I:\CourseWorkk\UI\bin\Debug\DataSer.pdb
+I:\CourseWorkk\UI\obj\x86\Debug\UserInterface.csprojResolveAssemblyReference.cache
+I:\CourseWorkk\UI\obj\x86\Debug\UI.Add.resources
+I:\CourseWorkk\UI\obj\x86\Debug\UI.Properties.Resources.resources
+I:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Univ.resources
+I:\CourseWorkk\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+I:\CourseWorkk\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UI.exe
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UI.pdb
+C:\Users\Антон\Desktop\CourseWorkk\UI\bin\Debug\UI.exe
+C:\Users\Антон\Desktop\CourseWorkk\UI\bin\Debug\UI.pdb
+C:\Users\Антон\Desktop\CourseWorkk\UI\bin\Debug\BL.dll
+C:\Users\Антон\Desktop\CourseWorkk\UI\bin\Debug\DataSer.dll
+C:\Users\Антон\Desktop\CourseWorkk\UI\bin\Debug\BL.pdb
+C:\Users\Антон\Desktop\CourseWorkk\UI\bin\Debug\DataSer.pdb
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.Univ.resources
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeUniv.resources
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.Add.resources
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.Change.resources
+C:\Users\Антон\Desktop\CourseWorkk\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Add.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeUniv.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeU.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.AddFacChanged.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.AddSpecChanged.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeNameofSpec.resources
+H:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Login.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Add.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.AddFacChanged.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.AddSpecChanged.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeNameofSpec.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeU.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeUniv.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Login.resources
+E:\CourseWorkk\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UI.exe
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UI.pdb
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.Add.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.AddFacChanged.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.AddSpecChanged.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeNameofSpec.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeU.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.ChangeUniv.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.Login.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.Univ.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\bin\Debug\UI.exe
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\bin\Debug\UI.pdb
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\bin\Debug\BL.dll
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\bin\Debug\DataSer.dll
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\bin\Debug\BL.pdb
+C:\Users\Настройка\Desktop\Юля\CourseWorkk\UI\bin\Debug\DataSer.pdb
+D:\CourseWorkk1\UI\obj\x86\Debug\UI.exe
+D:\CourseWorkk1\UI\obj\x86\Debug\UI.pdb
+D:\CourseWorkk1\UI\bin\Debug\UI.exe
+D:\CourseWorkk1\UI\bin\Debug\UI.pdb
+D:\CourseWorkk1\UI\bin\Debug\BL.dll
+D:\CourseWorkk1\UI\bin\Debug\DataSer.dll
+D:\CourseWorkk1\UI\bin\Debug\BL.pdb
+D:\CourseWorkk1\UI\bin\Debug\DataSer.pdb
+D:\CourseWorkk1\UI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.Add.resources
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.AddFacChanged.resources
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.AddSpecChanged.resources
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.Login.resources
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.Univ.resources
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+D:\CourseWorkk1\UI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CourseWorkk1\UI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.ForUsing.resources
+D:\CourseWorkk1\UI\obj\x86\Debug\UserInterface.DeleteU.resources
+C:\Users\Julia\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UI.exe
+C:\Users\Julia\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UI.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UI.exe
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UI.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\bin\Debug\UI.exe
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\bin\Debug\UI.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\bin\Debug\BL.dll
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\bin\Debug\DataSer.dll
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\bin\Debug\BL.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\bin\Debug\DataSer.pdb
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.Add.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.AddFacChanged.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.AddSpecChanged.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.DeleteU.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.ForUsing.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.Login.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.Univ.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+C:\Users\Julianna_Smirnova\Documents\Visual Studio 2012\Projects\CourseWork\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\Julianna_Smirnova\Documents\Projects\CourseWork\UI\obj\x86\Debug\UI.exe
+C:\Users\Julianna_Smirnova\Documents\Projects\CourseWork\UI\obj\x86\Debug\UI.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\UI.exe
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\UI.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\BL.dll
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\DataSer.dll
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\BL.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\DataSer.pdb
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csprojResolveAssemblyReference.cache
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Add.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.AddFacChanged.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.AddSpecChanged.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.DeleteU.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.ForUsing.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Login.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Univ.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.cache
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.CopyComplete
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UI.exe
+D:\Новая папка\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UI.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\UI.exe
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\UI.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\BL.dll
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\DataSer.dll
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\BL.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\bin\Debug\DataSer.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csprojResolveAssemblyReference.cache
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Add.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.ForUsing.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Login.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.cache
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.CopyComplete
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UI.exe
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UI.pdb
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.DeleteU.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.AddFacultyChanged.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.AddSpecializationChanged.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.LoginAs.resources
+D:\Универ\2dCourse\2dCourse\Projects\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UniversityInfo.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\bin\Debug\UI.exe
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\bin\Debug\UI.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\bin\Debug\BL.dll
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\bin\Debug\DataSer.dll
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\bin\Debug\BL.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\bin\Debug\DataSer.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csprojResolveAssemblyReference.cache
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.LoginAs.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Login.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UniversityInfo.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.cache
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.CopyComplete
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UI.exe
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UI.pdb
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UniversityAdd.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.FacultyAdd.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.SpecializationAdd.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.DeleteUniversity.resources
+D:\Универ\2-ой семестр\ООП\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Manual.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\bin\Debug\UI.exe
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\bin\Debug\UI.pdb
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\bin\Debug\BL.dll
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\bin\Debug\DataSer.dll
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\bin\Debug\BL.pdb
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\bin\Debug\DataSer.pdb
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csprojAssemblyReference.cache
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UniversityAdd.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.FacultyAdd.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.SpecializationAdd.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.LoginAs.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.DeleteUniversity.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Manual.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Login.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.Properties.Resources.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UniversityInfo.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.UserInterface.resources
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.GenerateResource.cache
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UserInterface.csproj.CopyComplete
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UI.exe
+D:\Универ\2-ой семестр\CourseWork_2sem\UI\obj\x86\Debug\UI.pdb
